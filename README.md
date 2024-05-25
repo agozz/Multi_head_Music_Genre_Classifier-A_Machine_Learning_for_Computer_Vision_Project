@@ -1,4 +1,4 @@
-# Multi-head Music Genre Classifier - A Machine Learning for Computer Vision Project
+# Multi-head Music Genre Classifier - A Project Work in Machine Learning for Computer Vision
 
 This is the code I wrote for the Project Work in Machine Learning for Computer Vision exam. In such report, only the dataset and a model save are missing (due to storage problems). Below, you will find a detailed report.
 
